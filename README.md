@@ -1,2 +1,2 @@
-# DPR-Candidates-2024-Election-Indonesia
+# dpr-candidates-2024-election-indonesia
 This file contains a list of all the candidates running in the 2024 legislative election in Indonesia (DPR RI). The list has been finalized (_daftar calon teta_p) by the Election Commission (KPU) and includes all the information required to be submitted by the candidates, such as the candidates' names, list numbers, parties, genders, origins, photos, and constituencies.
